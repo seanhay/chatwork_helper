@@ -10,5 +10,6 @@
         ],
         "js": ["chatworkHelper.js"]
     }],
+    "icons": { "128": "icon128.png" },
     "author": "ryoichi-u"
 }
